@@ -1,3 +1,3 @@
 GIT=https://github.com/minh7a6/u-boot.git    
-COMMIT=e5e9d24bdc890eeaf21383760d84115d0a42a445
+COMMIT=cfb337b8ea6106eedecaf4968af2f56af033457f
 BRANCH=nanopi-r3s
